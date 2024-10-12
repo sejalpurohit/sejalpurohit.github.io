@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: remote_theme: pages-themes/slate@v0.2.0
 title: Sejal's WebSpace! 
 description: Keep an eye out for my personal space. I'm about to publish some things which i'm learning! 
 plugins:
