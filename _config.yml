@@ -3,3 +3,9 @@ title: Sejal's WebSpace!
 description: Keep an eye out for my personal space. I'm about to publish some things which i'm learning! 
 plugins:
 - jekyll-remote-theme
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jemoji
+- karmadown
+markdown: kramdown
