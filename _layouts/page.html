@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html%}
+  <body>
+    {% include nav.html %}
+    <main class="page">
+      {% if page.title %}
+      <h1 class="page-title">{{page.title}}</h1>
+      {% endif %}
+      <!--  -->
+      {{content}}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
