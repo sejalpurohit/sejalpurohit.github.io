@@ -1,0 +1,8 @@
+projects:
+  - title: JS Page-switcher
+    img: /assets/uploads/dev.png
+    img_alt: Oops!
+    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    tags: [JS, HTML, CSS]
+    link: https://sejalpurohit.github.io/CSS_Exercise/foundations/dynamicPageSwitcher/
+    # code: 

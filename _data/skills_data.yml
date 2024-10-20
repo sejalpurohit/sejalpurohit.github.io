@@ -1,0 +1,67 @@
+skills:
+  - level: pro
+    title: HTML 5
+    img: /assets/uploads/001-html-5.png
+  - level: pro
+    title: CSS
+    img: /assets/uploads/002-css.png
+  - level: pro
+    title: JavaScript
+    img: /assets/uploads/003-js.png
+  - level: pro
+    title: C
+    img: /assets/uploads/icons8-c-programming-240.png
+  - level: pro
+    title: C++
+    img: /assets/uploads/icons8-c-240.png
+  - level: pro
+    title: Python
+    img: /assets/uploads/icons8-python-240.png
+  - level: pro
+    title: Flask
+    img: /assets/uploads/flask.png
+  - level: pro
+    title: Java
+    img: /assets/uploads/java.png
+  - level: pro
+    title: NodeJS
+    img: /assets/uploads/004-nodejs.png
+  - title: ReactJS
+    img: /assets/uploads/icons8-react-160.png
+    level: pro
+  - level: pro
+    title: MySQL
+    img: /assets/uploads/icons8-mysql-logo-250.png
+  - level: pro
+    title: MongoDB
+    img: /assets/uploads/icons8-mongodb-240.png
+  - level: pro
+    title: GraphQL
+    img: /assets/uploads/graphql.png
+  - level: pro
+    title: Bootstrap
+    img: /assets/uploads/boots.png
+  - level: pro
+    title: Bulma
+    img: /assets/uploads/bulma.png    
+  - level: fam
+    title: OpenCV
+    img: /assets/uploads/opencv.png
+  - level: fam
+    title: GatsbyJS
+    img: /assets/uploads/gatsby.png
+  - level: fam
+    title: Ruby
+    img: /assets/uploads/005-ruby.png
+  - level: fam
+    title: LaTeX
+    img: /assets/uploads/latex.png
+  - level: fam
+    title: SQlite
+    img: /assets/uploads/sqlite.png
+  - level: fam
+    title: PHP
+    img: /assets/uploads/006-php.png
+  - level: fam
+    title: WordPress
+    img: /assets/uploads/wordpress.png
