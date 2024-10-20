@@ -1,12 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;400;700;900&display=swap");
 
+/* :root {
+  --dark-1: #151618;
+  --dark-2: #25282c;
+  --dark-3: #151618;
+  --light-1: #fff;
+  --light-2: #a9abb3;
+  --light-3: #3f3f3f;
+  --light-4: #32353a;
+} */
+
 :root {
   --dark-1: #292d3e;
   --dark-2: #1c1f2d;
   --dark-3: #292d3e;
   --light-1: #fff;
-  --light-2: #292d3e;
+  --light-2: #a9abb3;
   --light-3: #ffdda7;
   --light-4: #292d3e;
 }
