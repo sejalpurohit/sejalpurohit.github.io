@@ -1,10 +1,36 @@
-title: Sejal's WebSpace! 
-description: Keep an eye out for my personal space. I'm about to publish some things which i'm learning! 
+# title: Sejal's WebSpace! 
+# description: Keep an eye out for my personal space. I'm about to publish some things which i'm learning! 
+# plugins:
+# - jekyll-remote-theme
+# - jekyll-sitemap
+# - jekyll-figure
+# - jekyll-feed
+# - jekyll-seo-tag
+# - jemoji
+# - kramdown
+# markdown: kramdown
+
+title: Sejal Purohit
+slogan: all you need to kNow
+logo: "custom – 1@3x.png"
+
 plugins:
-- jekyll-remote-theme
-- jekyll-sitemap
-- jekyll-feed
-- jekyll-seo-tag
-- jemoji
-- karmadown
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  # - jekyll-paginate
+  - kramdown
+
 markdown: kramdown
+# paginate: 5
+# paginate_path: "/page:num"
+
+defaults:
+  - scope:
+      path: "/"
+    values:
+      layout: "post"
+      permalink: /posts/:title/
+
+exclude: ["sitemap.xml", "feed.xml", "LICENSE", "README.md"]

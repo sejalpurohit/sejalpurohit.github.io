@@ -4,7 +4,10 @@
   <body>
     {% include nav.html %}
     <br />
-    <h1 class="page-title">Posts</h1>
+    <main class="page">
+    {{content}}
+    <main>
+    <h1 class="page-title">Leafs</h1>
     <main class="post-list">
       {% for post in site.posts %}
       <a href="{{site.url}}{{site.baseurl}}{{post.url}}" class="post">
