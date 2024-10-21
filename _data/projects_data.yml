@@ -1,8 +1,39 @@
 projects:
-  - title: JS Page-switcher
-    img: /assets/uploads/dev.png
+  - title: Button Styling
+    img: /assets/uploads/buttonStyling.png
+    img_alt: Oops!
+    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    tags: [JS, HTML, CSS]
+    link: https://sejalpurohit.github.io/CSS_Exercise/foundations/button-styling/
+    # code: ""
+  - title: Card Flip Animation
+    img:  /assets/uploads/dev.png
+    img_alt: Oops!
+    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    tags: [JS, HTML, CSS]
+    link: https://sejalpurohit.github.io/CSS_Exercise/foundations/cardFlipAnimation/
+    # code:  
+  - title: Dynamic Page-switcher
+    img: /assets/uploads/dynamicpageSwitcher.png
     img_alt: Oops!
     about: Plying with Vanilla JavaScript to create a basic Page-switcher
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/dynamicPageSwitcher/
-    # code: 
+    # code: ""
+  - title: Page-Transition
+    img: /assets/uploads/pageTransition.png
+    img_alt: Oops!
+    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    tags: [JS, HTML, CSS]
+    link: https://sejalpurohit.github.io/CSS_Exercise/foundations/pageTransition/
+    # code: ""
+  - title: Popup Modal
+    img: /assets/uploads/popupModal.png
+    img_alt: Oops!
+    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    tags: [JS, HTML, CSS]
+    link: https://sejalpurohit.github.io/CSS_Exercise/foundations/popUpModal/
+    # code:  
+
+  
+ 
