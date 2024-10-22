@@ -1,9 +1,30 @@
 projects:
+  - title: Sejal-Website
+    img: /assets/uploads/FoodCompany.png
+    img_alt: Oops!
+    about: Self-guided professional development
+    tags: [ YAML, JS, HTML, CSS, Jekyll]
+    # link: https://sejalpurohit.github.io/react_projects/tree/main/FoodVilla/
+    code: https://github.com/sejalpurohit/sejalpurohit.github.io
+  - title: FoodFolio
+    img: /assets/uploads/sejal.jpg
+    img_alt: Oops!
+    about: learning Angular through a hands-on project!
+    tags: [ React, JS, HTML, JSX, CSS, Redux]
+    # link: https://sejalpurohit.github.io/react_projects/tree/main/FoodVilla/
+    code: https://github.com/sejalpurohit/react_projects/tree/main/FoodVilla
+  - title: UserData Management
+    img: /assets/uploads/usermanagement.png
+    img_alt: Oops!
+    about: learning React through a hands-on project with React, JavaScript and Redux!
+    tags: [ Angular, Typescript, HTML, CSS, JS]
+    # link: https://sejalpurohit.github.io/react_projects/tree/main/FoodVilla/
+    code: https://github.com/sejalpurohit/Angular_UserData/tree/main/src/app
   - title: Button Styling
     img: /assets/uploads/buttonStyling.png
     img_alt: Oops!
     about: Plying with Vanilla JavaScript to create a basic Page-switcher
-    tags: [JS, HTML, CSS]
+    tags: [HTML, JS, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/button-styling/
     # code: ""
   - title: Card Flip Animation
