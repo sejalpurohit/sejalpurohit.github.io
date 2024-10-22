@@ -15,12 +15,17 @@ const colorSchemes = {
   c: { color: "#00599c", bgColor: "#00599c" },
   dart: { color: "#02569b", bgColor: "#02569b" },
   php: { color: "#000", bgColor: "#8993be" },
+  jsx: { color: "#00599c", bgColor: "#FFF" },
+  typescript: { color: "#333", bgColor: "#ccc" },
+  yaml: { color: "#fff", bgColor: "#000" },
+  redux: { color: "#fff", bgColor: "#21759b" },
+  jekyll: { color: "#fff", bgColor: "#cc0000" },
   //   stacks
   mevn: { color: "#fff", bgColor: "#00d1b2" },
   mern: { color: "#fff", bgColor: "#00d1b2" },
   mean: { color: "#fff", bgColor: "#00d1b2" },
   // web dev
-  pwa: { color: "#000", bgColor: "#5ebeff" },
+  angular: { color: "#000", bgColor: "#5ebeff" },
   react: { color: "#000", bgColor: "#00d8ff" },
   nodejs: { color: "#fff", bgColor: "#026e00" },
   express: { color: "#000", bgColor: "#fff" },
@@ -55,6 +60,7 @@ const colorSchemes = {
   netlify: { color: "#fff", bgColor: "#00c7b7" },
   vercel: { color: "#fff", bgColor: "#000000" },
   github_pages: { color: "#fff", bgColor: "#4078c0" },
+  githubpages: { color: "#fff", bgColor: "#4078c0" },
   // tools & clis
   pypi: { color: "#fff", bgColor: "#3775a9" },
   git: { color: "#f34f29", bgColor: "#f34f29" },

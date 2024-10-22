@@ -3,7 +3,7 @@ projects:
     img: /assets/uploads/sejal.jpg
     img_alt: Oops!
     about: Self-guided professional development
-    tags: [ YAML, JS, HTML, CSS, Jekyll]
+    tags: [ YAML, JS, HTML, CSS, Jekyll, Githubpages]
     # link: 
     code: https://github.com/sejalpurohit/sejalpurohit.github.io
   - title: FoodFolio
@@ -26,35 +26,35 @@ projects:
     about: Plying with Vanilla JavaScript to create a basic Page-switcher
     tags: [HTML, JS, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/button-styling/
-    # code: ""
+    code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/button-styling
   - title: Card Flip Animation
     img:  /assets/uploads/dev.png
     img_alt: Oops!
     about: Plying with Vanilla JavaScript to create a basic Page-switcher
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/cardFlipAnimation/
-    # code:  
+    code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/cardFlipAnimation
   - title: Dynamic Page-switcher
     img: /assets/uploads/dynamicpageSwitcher.png
     img_alt: Oops!
     about: Plying with Vanilla JavaScript to create a basic Page-switcher
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/dynamicPageSwitcher/
-    # code: ""
+    code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/dynamicPageSwitcher
   - title: Page-Transition
     img: /assets/uploads/pageTransition.png
     img_alt: Oops!
     about: Plying with Vanilla JavaScript to create a basic Page-switcher
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/pageTransition/
-    # code: ""
+    code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/pageTransition
   - title: Popup Modal
     img: /assets/uploads/popupModal.png
     img_alt: Oops!
     about: Plying with Vanilla JavaScript to create a basic Page-switcher
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/popUpModal/
-    # code:  
+    code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/popUpModal 
 
   
  
