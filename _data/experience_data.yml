@@ -1,7 +1,25 @@
 experience:
-  - title: Software Developer
-    company: TCS
+  - title: Software Engineer
+    company: Upgrading skills independently 
+    dates: June 2024 – Present
+    location: Manchester, United Kingdom
+    responsibilities:
+      - Actively developing a website using React, Redux, Tailwind CSS, and Jest as part of a bootcamp tutorial.
+      - Pursuing online tutorials for Node.js to enhance backend technology skills with the goal of becoming a proficient full-stack developer.
+      - Building my own website to showcase my work and experience.
+  
+  - title: Software Engineer
+    company: Tata Consultancy Services
     dates: October 2022 – June 2024
     location: Hyderabad, India
     responsibilities:
-      - To be updated
+      - Contributed to developing a cutting-edge Banking system, focusing on creating and updating the deal functionality.
+      - Built a website from the ground up for a farm management application designed to empower farmers by seamlessly integrating financial and field-level records.
+
+  - title: Software Engineer
+    company: Atmecs Technologies Ltd.
+    dates: February 2019 – Auguat 2022
+    location: Hyderabad, India
+    responsibilities:
+      - Developed a website fro production management solution for the entertainment industry, customizing the product to meet specific client requirements.
+      - Worked on a pharmaceutical production project to enhance functionality and product quality, maintaining direct communication with the client.
