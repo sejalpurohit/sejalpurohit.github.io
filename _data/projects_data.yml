@@ -3,7 +3,7 @@ projects:
     img: /assets/uploads/sejal.jpg
     img_alt: Oops!
     about: Self-guided professional development
-    tags: [ YAML, JS, HTML, CSS, Jekyll, Githubpages]
+    tags: [ YAML, JS, HTML, CSS, Jekyll]
     # link: 
     code: https://github.com/sejalpurohit/sejalpurohit.github.io
   - title: FoodFolio
@@ -20,41 +20,47 @@ projects:
     tags: [ Angular, Typescript, HTML, CSS, JS]
     # link: 
     code: https://github.com/sejalpurohit/Angular_UserData/tree/main/src/app
+  - title: Profile Card
+    img: /assets/uploads/profileCard.png
+    img_alt: Oops!
+    about:  Design a beautiful user profile card only using HTML & CSS!
+    tags: [ HTML, CSS]
+    link: https://sejalpurohit.github.io/CSS_Exercise/foundations/profileCard/
+    code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/profileCard
   - title: Button Styling
     img: /assets/uploads/buttonStyling.png
     img_alt: Oops!
-    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    about: Button Hover State Animations with only CSS!
     tags: [HTML, JS, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/button-styling/
     code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/button-styling
   - title: Card Flip Animation
     img:  /assets/uploads/dev.png
     img_alt: Oops!
-    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    about: Animating card flip with using HTML, CSS and JavaScript. Can be used in games or website!
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/cardFlipAnimation/
     code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/cardFlipAnimation
   - title: Dynamic Page-switcher
     img: /assets/uploads/dynamicpageSwitcher.png
     img_alt: Oops!
-    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    about: Plying with Vanilla JavaScript to create a basic Page-switcher!
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/dynamicPageSwitcher/
     code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/dynamicPageSwitcher
   - title: Page-Transition
     img: /assets/uploads/pageTransition.png
     img_alt: Oops!
-    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    about: A Page switcher with only HTML, CSS and JavaScript - using for loops, event listeners!
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/pageTransition/
     code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/pageTransition
   - title: Popup Modal
     img: /assets/uploads/popupModal.png
     img_alt: Oops!
-    about: Plying with Vanilla JavaScript to create a basic Page-switcher
+    about: Popup modals using only CSS and JavaScript and shows off the fundamentals of ES6 and CSS3!
     tags: [JS, HTML, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/popUpModal/
     code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/popUpModal 
 
   
- 
