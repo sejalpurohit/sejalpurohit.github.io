@@ -16,7 +16,7 @@ projects:
   - title: UserData Management
     img: /assets/uploads/usermanagement.png
     img_alt: Oops!
-    about: Learning Angular through a hands-on project!
+    about: Practicing Angular 
     tags: [ Angular, Typescript, HTML, CSS, JS]
     # link: 
     code: https://github.com/sejalpurohit/Angular_UserData/tree/main/src/app
