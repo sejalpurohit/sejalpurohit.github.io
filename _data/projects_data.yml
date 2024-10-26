@@ -30,7 +30,7 @@ projects:
   - title: Button Styling
     img: /assets/uploads/buttonStyling.png
     img_alt: Oops!
-    about: Button Hover State Animations with only CSS!
+    about: Button Hover State Animations with only CSS and HTML!
     tags: [HTML, JS, CSS]
     link: https://sejalpurohit.github.io/CSS_Exercise/foundations/button-styling/
     code: https://github.com/sejalpurohit/CSS_Exercise/tree/main/foundations/button-styling
