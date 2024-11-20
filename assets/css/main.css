@@ -509,6 +509,10 @@ footer {
     font-size: 1rem !important;
     text-align: center;
   }
+  header p.desc {
+    font-size: 1rem !important;
+    text-align: center;
+  }
   header p.sub-desc {
     font-size: 0.8rem !important;
     text-align: center;
