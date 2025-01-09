@@ -6,6 +6,14 @@ projects:
     tags: [ YAML, JS, HTML, CSS, Jekyll]
     # link: 
     code: https://github.com/sejalpurohit/sejalpurohit.github.io
+  - title: Angular UserData Management
+    img: /assets/png/angular.png
+    img_alt: Oops!
+    about: Self-guided professional development
+    tags: [ Angular, TypeScript, JS, HTML, CSS]
+    # link: 
+    code: https://github.com/sejalpurohit/Angular_UserData
+
   - title: FoodFolio
     img: /assets/uploads/FoodCompany.png
     img_alt: Oops!
