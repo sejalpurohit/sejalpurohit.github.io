@@ -379,6 +379,7 @@ main {
   max-width: 1400px;
   line-height: 190%;
   font-family: "Montserrat", sans-serif;
+
 }
 
 .page .page-title {
@@ -424,6 +425,7 @@ main {
   border-color: var(--light-2);
   border-width: 2px;
   border-style: dashed;
+  
 }
 
 .page blockquote {
