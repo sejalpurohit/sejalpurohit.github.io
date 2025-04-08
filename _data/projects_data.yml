@@ -6,6 +6,13 @@ projects:
     tags: [ Angular, JS, HTML, CSS, Typescript]
     # link: 
     code: https://github.com/sejalpurohit/todo-app-angular
+  - title: CloudPharmaShop (Inprogress)
+    img: /assets/uploads/CloudPharmaShop.jpeg
+    img_alt: Oops!
+    about: Angular project with basic crud operation (v17 standalone)
+    tags: [ Angular, JS, HTML, CSS, Typescript, AngularMaterial]
+    # link: 
+    code: https://github.com/sejalpurohit/Angular-Crud-Operation 
   - title: Sejal-Website
     img: /assets/uploads/sejal.jpg
     img_alt: Oops!

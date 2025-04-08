@@ -15,8 +15,8 @@ const colorSchemes = {
   c: { color: "#00599c", bgColor: "#00599c" },
   dart: { color: "#02569b", bgColor: "#02569b" },
   php: { color: "#000", bgColor: "#8993be" },
-  jsx: { color: "#00599c", bgColor: "#FFF" },
-  typescript: { color: "#333", bgColor: "#ccc" },
+  jsx: { color: "#070102", bgColor: "#FF00FF" },
+  typescript: { color: "#f9f2f7", bgColor: "#9F2B68" },
   yaml: { color: "#fff", bgColor: "#000" },
   redux: { color: "#fff", bgColor: "#21759b" },
   jekyll: { color: "#fff", bgColor: "#cc0000" },
@@ -26,6 +26,7 @@ const colorSchemes = {
   mean: { color: "#fff", bgColor: "#00d1b2" },
   // web dev
   angular: { color: "#000", bgColor: "#5ebeff" },
+  angularmaterial: { color: "#9F2B68", bgColor: "#00d1b2" },
   react: { color: "#000", bgColor: "#00d8ff" },
   nodejs: { color: "#fff", bgColor: "#026e00" },
   express: { color: "#000", bgColor: "#fff" },
