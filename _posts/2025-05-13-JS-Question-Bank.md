@@ -294,6 +294,7 @@ Collection of Javascript Coding Interview Questions
 33. **What is the difference between exec () and test () methods in javascript?**
 
 34. **What is the output of the following code?**
+
     const b = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
     for (let i = 0; i < 10; i++) {
@@ -303,6 +304,7 @@ Collection of Javascript Coding Interview Questions
     setTimeout(() => console.log(b[i]), 1000);
 
 35. **Write a function that performs binary search on a sorted array**
+
     function binarySearch(arr,value,startPos,endPos){
     if(startPos > endPos) return -1;
 
@@ -389,19 +391,19 @@ Collection of Javascript Coding Interview Questions
     Task: Implement a custom version of the `.filter()` method that mimics its functionality.
     Create a function that takes a callback and applies it to each element of an array.
 
-46. **Result of Filtering an Empty Array**
+45. **Result of Filtering an Empty Array**
     Task: Understand the behavior when `.filter()` is applied to an empty array.
 
     **Output** Always returns an empty array, since there are no elements to iterate over.
 
-47. **Optimize `.filter()` for Large Datasets**
+46. **Optimize `.filter()` for Large Datasets**
     Task: Discuss techniques for efficiently using `.filter()` on large datasets.
     Combine `.filter()` with pagination or chunking to process smaller subsets.
 
-48. **Async/Await in a `.filter()` Callback**
+47. **Async/Await in a `.filter()` Callback**
     Task: Can `.filter()` support asynchronous operations inside its callback?
 
-49. **Filter Common Elements in Two Arrays**
+48. **Filter Common Elements in Two Arrays**
     Task: From two arrays, return elements that are present in both.
 
     **Input** const a = [1, 2, 3, 4];
@@ -409,10 +411,12 @@ Collection of Javascript Coding Interview Questions
 
     **Output** [2, 4]
 
-50. **Result of the Following Code**
+49. **Result of the Following Code**
     Task: Predict the output and explain behavior:
 
     **Input** const res = [1, 2, 3].filter((x, i, arr) => {
     arr.pop();
     return true;
     });
+
+50. **Given two strings str1 and str2, determine if str2 is an anagram of str1 and return true if it is, and false otherwise.**
