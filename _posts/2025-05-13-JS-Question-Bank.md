@@ -3,7 +3,7 @@ layout: post
 title: "Javascript Coding Question"
 date: 2025-05-13
 categories: ELECTRON
-image: /assets/uploads/javascript.jpg
+image: /assets/uploads/javascript.png
 ---
 
 Collection of Javascript Coding Interview Questions
