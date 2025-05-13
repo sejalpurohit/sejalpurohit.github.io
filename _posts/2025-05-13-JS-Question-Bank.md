@@ -84,7 +84,9 @@ Collection of Javascript Coding Interview Questions
 9.  **Find the Longest String**
     Task: Return the longest string from a given array of strings.
 
-    **Input** const strings = ["cat", "elephant", "dog", "giraffe", "hippopotamus", "gof", "hippopotamushhhhhhhhhh",];
+    **Input** const strings = ["cat", "elephant", "dog", "giraffe", "hippopotamus", "goat"];
+
+    **Output** hippopotamus
 
 10. **Merge Arrays of Objects by ID**
     Task: Use `.reduce()` to merge two arrays of objects by their `id` fields, summing up values for duplicate `id`s.
@@ -109,6 +111,7 @@ Collection of Javascript Coding Interview Questions
     ] 11. Square the Numbers
 
 11. Task: Return a new array where each number is squared.
+
     **Input** Example Input: [2, 3, 4, 5]
 
     **Output** [4, 9, 16, 25]
@@ -196,8 +199,8 @@ Collection of Javascript Coding Interview Questions
 
 23. **Find Items in Stock**
     Task: Given an array of products, return only those where stock > 0.
-    **Input**
-    [{ name: "Pen", stock: 10 },
+
+    **Input** [{ name: "Pen", stock: 10 },
     { name: "Pencil", stock: 0 },
     { name: "Notebook", stock: 5 }]
 
@@ -262,7 +265,7 @@ Collection of Javascript Coding Interview Questions
 
     **Input** [[1, 2], [3, 4], [5]]
 
-    **Output**- Flatten, Filter evens, Square, Expected Output: [4, 16]
+    **Output** Flatten, Filter evens, Square, Expected Output: [4, 16]
 
 31. **Comment Stats**
     Task: Given an array of post objects, each with a comments array, calculate:
@@ -385,6 +388,7 @@ Collection of Javascript Coding Interview Questions
     Task: Filter an array of strings to only include those starting with a capital letter.
 
     **Input** ["apple", "Banana", "kiwi", "Strawberry"]
+
     **Output** ["Banana", "Strawberry"]
 
 44. **Write a Polyfill for Array.prototype.filter()**
