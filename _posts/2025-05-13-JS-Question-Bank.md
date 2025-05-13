@@ -187,7 +187,7 @@ Collection of Javascript Coding Interview Questions
 22. **Filter Active Users**
     Task: From a list of user objects, return only users who are active.
    
-   **Input**
+    **Input**
     [ { name: "Alice", active: true },
     { name: "Bob", active: false },
     { name: "Charlie", active: true } ]
@@ -206,12 +206,12 @@ Collection of Javascript Coding Interview Questions
 24. **Filter by Minimum Score**
     Task: From an array of students with test scores, return those who scored 60 or higher.
    
-   **Input**
+    **Input**
     [{ name: "Alex", score: 45 },
     { name: "Bella", score: 75 },
     { name: "Chris", score: 60 }]
 
-    **Output**Bella and Chris.
+    **Output** Bella and Chris.
 
 25. **Emails from Specific Domain**
     Task: Filter users whose email ends with @example.com.
@@ -221,7 +221,7 @@ Collection of Javascript Coding Interview Questions
     { email: "jane@gmail.com" },
     { email: "doe@example.com" }]
 
-    **InOutputput** John and Doe.
+    **Output** John and Doe.
 
 26. **Remove Duplicate IDs**
     Task: From a list of items with IDs, remove duplicates (assume duplicates have the same ID).
@@ -251,7 +251,7 @@ Collection of Javascript Coding Interview Questions
 29. **Adults Only**
     Task: From an array of people, return only those aged 18 or older.
 
-   **Input** [ { name: "Tom", age: 17 },
+    **Input** [ { name: "Tom", age: 17 },
     { name: "Lucy", age: 22 },
     { name: "Mark", age: 18 }]
 
