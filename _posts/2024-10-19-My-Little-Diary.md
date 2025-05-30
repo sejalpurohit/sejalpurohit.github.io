@@ -10,4 +10,4 @@ I am currently engaged in a bootcamp tutorial focused on web development 💻, w
 
 In addition, I am also developing a food ordering application 🍔 using the same tech stack, allowing me to apply my skills in a practical context while enhancing my understanding of modern web development frameworks and tools 🚀.
 
-(updates to come soon...)
+
