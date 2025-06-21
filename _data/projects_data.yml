@@ -7,7 +7,7 @@ projects:
     # link: 
     code: https://github.com/sejalpurohit/todo-app-angular
   - title: CloudPharmaShop (Crud Operation)
-    img: /assets/uploads/CloudPharmaShop.jpeg
+    img: /assets/uploads/usermanagement.png
     img_alt: Oops!
     about: Angular project with basic crud operation (v17 standalone)
     tags: [ Angular, JS, HTML, CSS, Typescript, AngularMaterial]
@@ -35,15 +35,15 @@ projects:
     tags: [ React, JS, HTML, JSX, CSS, Redux]
     # link: 
     code: https://github.com/sejalpurohit/react_projects/tree/main/FoodVilla
-  - title: UserData Management
+  - title: Angular Reactive Form Validation
     img: /assets/uploads/usermanagement.png
     img_alt: Oops!
-    about: Practicing Angular 
+    about: Practicing Angular Forms 
     tags: [ Angular, Typescript, HTML, CSS, JS]
     # link: 
-    code: https://github.com/sejalpurohit/Angular_UserData/tree/main/src/app
+    code: https://github.com/sejalpurohit/angular_reactive_form_validation
   - title: Profile Card
-    img: /assets/uploads/profileCard.png
+    img: /assets/uploads/angularForms.png
     img_alt: Oops!
     about:  Design a beautiful user profile card only using HTML & CSS!
     tags: [ HTML, CSS]
