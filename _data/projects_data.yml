@@ -35,10 +35,10 @@ projects:
     tags: [ React, JS, HTML, JSX, CSS, Redux]
     # link: 
     code: https://github.com/sejalpurohit/react_projects/tree/main/FoodVilla
-  - title: Angular Reactive Form Validation
-    img: /assets/uploads/angularForms.png
+  - title: Reactive Form Validation
+    img: /assets/uploads/ReactiveForm.png
     img_alt: Oops!
-    about: Practicing Angular Forms 
+    about: Angular Reactive Form with Validation and download form data in JSON format
     tags: [ Angular, Typescript, HTML, CSS, JS]
     # link: 
     code: https://github.com/sejalpurohit/angular_reactive_form_validation
