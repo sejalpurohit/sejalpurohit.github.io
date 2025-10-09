@@ -1,4 +1,11 @@
 projects:
+  - title: Favourites in Shopping Cart
+    img: /assets/uploads/shoppingImage.jpg
+    img_alt: oops!
+    about: Practicing state Management in Angular 
+    tags: [ Angular, JS, HTML, CSS, Typescript,NgRx]
+    # link: 
+    code: https://github.com/sejalpurohit/ShoppingCart
   - title: To-Do Task List
     img: /assets/uploads/toDoList.png
     img_alt: Oops!
