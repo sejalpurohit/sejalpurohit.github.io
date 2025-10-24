@@ -6,8 +6,15 @@ projects:
     tags: [ Angular, JS, HTML, CSS, Typescript,NgRx]
     # link: 
     code: https://github.com/sejalpurohit/ShoppingCart
-  - title: To-Do Task List
+  - title: Wheel of Fortune! 
     img: /assets/uploads/toDoList.png
+    img_alt: Oops!
+    about: Spinning Wheel Game! 
+    tags: [ JS, HTML, CSS, Bootstrap]
+    link: https://sejalpurohit.github.io/FortuneWheel---JS/
+    code: https://github.com/sejalpurohit/FortuneWheel---JS/
+  - title: To-Do Task List
+    img: /assets/uploads/dev.png
     img_alt: Oops!
     about: Practicing Angular 
     tags: [ Angular, JS, HTML, CSS, Typescript]
