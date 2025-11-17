@@ -1,26 +1,35 @@
 experience:
+  - title: Trainee Fullstack Developer
+    company: Northcoders
+    dates: September 2025 – December 2025
+    location: Manchester, United Kingdom
+    responsibilities:
+      - Developed a strong foundation in core programming principles, including Test-Driven Development, pair programming, and both object-oriented and functional programming paradigms 
+      - In the Backend module, built servers with Node.js and Express, designed and tested RESTful APIs, worked with PostgreSQL databases, and implemented the MVC architecture
+      - In the Frontend module, gained hands-on experience with React, focusing on DOM manipulation, semantic HTML, and responsive CSS to create clean, user-friendly interfaces
+
   - title: Software Engineer
     company: Relocation and Transition Period
     dates: June 2024 – March2025
     location: Manchester, United Kingdom
     responsibilities:
       - Exploring the latest version of Angular and engaging in hands-on practice through examples.
-      - Actively developing a new websites using React, Redux, Tailwind CSS, and Jest as part of a bootcamp tutorial.
-      - Pursuing online tutorials for Node.js to enhance backend technology skills with the goal of becoming a proficient full-stack developer.
-      - Building my own website to showcase my work and experience.
+      - Actively developing a new websites using React, Redux, Tailwind CSS, and Jest as part of a bootcamp tutorial
+      - Pursuing online tutorials for Node.js to enhance backend technology skills with the goal of becoming a proficient full-stack developer
+      - Building my own website to showcase my work and experience
   
   - title: Software Engineer
     company: Tata Consultancy Services
     dates: October 2022 – June 2024
     location: Hyderabad, India
     responsibilities:
-      - Contributed to developing a cutting-edge Banking system, focusing on creating and updating the deal functionality.
-      - Built a website from the ground up for a farm management application designed to empower farmers by seamlessly integrating financial and field-level records.
+      - Contributed to developing a cutting-edge Banking system, focusing on creating and updating the deal functionality
+      - Built a website from the ground up for a farm management application designed to empower farmers by seamlessly integrating financial and field-level records
 
   - title: Software Engineer
     company: Atmecs Technologies Ltd.
     dates: February 2019 – Auguat 2022
     location: Hyderabad, India
     responsibilities:
-      - Developed a website fro production management solution for the entertainment industry, customizing the product to meet specific client requirements.
-      - Worked on a pharmaceutical production project to enhance functionality and product quality, maintaining direct communication with the client.
+      - Developed a website fro production management solution for the entertainment industry, customizing the product to meet specific client requirements
+      - Worked on a pharmaceutical production project to enhance functionality and product quality, maintaining direct communication with the client
