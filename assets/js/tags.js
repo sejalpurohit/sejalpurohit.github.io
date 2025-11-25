@@ -96,6 +96,7 @@ const colorSchemes = {
   macos: { color: "#fff", bgColor: "#000000" },
   // rest apis
   github_rest_api: { color: "#fff", bgColor: "#4078c0" },
+  restApi: { color: "#fff", bgColor: "#4078c0" },
 };
 
 function generateTagColors() {

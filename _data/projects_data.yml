@@ -1,11 +1,28 @@
 projects:
+  - title: NC News Website
+    img: /assets/uploads/ncfrontend.png
+    img_alt: oops!
+    about: Northcoders News is a user interface for a social media–style application
+    tags: [ React, JS, HTML, CSS, nodejs, jsx, restApi, netlify ]
+    link: https://691b76511cd64e6c76828cb6--peaceful-peony-3795bd.netlify.app/
+    code: https://github.com/sejalpurohit/nc_news
+
+  - title: NC News Server
+    img: /assets/uploads/ncbackend.png
+    img_alt: oops!
+    about: A RESTful backend service for the NC News platform — a Reddit-style news application
+    tags: [ React, JS, HTML, CSS, nodejs, JSX, express, postgresql ]
+    link: https://news-server-u1gw.onrender.com/api/
+    code: https://github.com/sirat-russo/nc_news_BE.git
+
   - title: Favourites in Shopping Cart
     img: /assets/uploads/shoppingImage.jpg
     img_alt: oops!
     about: Practicing state Management in Angular 
-    tags: [ Angular, JS, HTML, CSS, Typescript,NgRx]
-    # link: 
+    tags: [ Angular, JS, HTML, CSS, Typescript, NgRx]
+    link: https://github.com/sejalpurohit/nc_news
     code: https://github.com/sejalpurohit/ShoppingCart
+
   - title: Wheel of Fortune! 
     img: /assets/uploads/spin_wheel.jpg
     img_alt: Oops!
@@ -13,6 +30,7 @@ projects:
     tags: [ JS, HTML, CSS, Bootstrap]
     link: https://sejalpurohit.github.io/FortuneWheel---JS/
     code: https://github.com/sejalpurohit/FortuneWheel---JS/
+
   - title: To-Do Task List
     img: /assets/uploads/toDoList.png
     img_alt: Oops!
