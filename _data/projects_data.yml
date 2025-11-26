@@ -1,6 +1,6 @@
 projects:
   - title: NC News Website
-    img: /assets/uploads/frontend.png
+    img: /assets/uploads/nc_frontend.png
     img_alt: oops!
     about: Northcoders News is a user interface for a social media–style application
     tags: [ React, JS, HTML, CSS, nodejs, jsx, restApi, netlify ]
@@ -8,7 +8,7 @@ projects:
     code: https://github.com/sejalpurohit/nc_news
 
   - title: NC News Server
-    img: /assets/uploads/backend.png
+    img: /assets/uploads/nc_backend.png
     img_alt: oops!
     about: A RESTful backend service for the NC News platform — a Reddit-style news application
     tags: [ React, JS, HTML, CSS, nodejs, JSX, express, postgresql ]
